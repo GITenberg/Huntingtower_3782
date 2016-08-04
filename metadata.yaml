@@ -1,0 +1,35 @@
+_repo: Huntingtower_3782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: After selling his business, rich middle-aged merchant Dickson McCunn
+  decides to set out on a walking holiday in the Scottish Borders. There he meets
+  a young English poet, and both soon become embroiled in the plot of an international
+  gang to capture a Russian princess. With the help of the Gorbals Die-hards, an indomitable
+  gang of urchins from Glasgow, they frustrate and finally defeat the gang. And in
+  the process Dickson happens to discover a new meaning to life ...
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'McCunn, Dickson (Fictitious character) -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- GITenberg
+title: Huntingtower
+url: http://www.gutenberg.org/ebooks/3782
